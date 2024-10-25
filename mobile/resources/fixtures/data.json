@@ -1,0 +1,42 @@
+{
+    "login": {
+        "account": {
+            "name": "Elon Musk",
+            "email": "elon@gmail.com",
+            "cpf": "29184668083"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "5555555555554444",
+            "holder": "Elon Musk",
+            "month": "12",
+            "year": "2030",
+            "cvv": 123
+        }
+    },
+    "update": {
+        "account": {
+            "name": "Steve Jobs",
+            "email": "steve@gmail.com",
+            "cpf": "26806706045",
+            "weight": 80,
+            "height": 180
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "5555555555554444",
+            "holder": "Steve Jobs",
+            "month": "12",
+            "year": "2030",
+            "cvv": 123
+        }
+    }     
+}

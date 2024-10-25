@@ -1,0 +1,78 @@
+{
+    "create": {
+        "account": {
+            "name": "Gabriel Machado",
+            "email": "gabriel@gmail.com",
+            "cpf": "05138356011"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": 2,
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "5555555555554444",
+            "holder": "Gabriel Machado",
+            "month": "12",
+            "year": "2030",
+            "cvv": 123
+        }
+    },
+    "duplicate": {
+        "account": {
+            "name": "Julia Machado",
+            "email": "julia@gmail.com",
+            "cpf": "32477162039"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": "1",
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "5555555555554444",
+            "holder": "Julia Machado",
+            "month": "12",
+            "year": "2030",
+            "cvv": 123
+        }
+    },
+    "search": {
+        "account": {
+            "name": "Diego Machado",
+            "email": "diego@gmail.com",
+            "cpf": "79845064000"
+        },
+        "plan": {
+            "name": "Plano Smart",
+            "id": "1",
+            "price": 99.99
+        },
+        "credit_card": {
+            "number": "5555555555554444",
+            "holder": "Diego Machado",
+            "month": "12",
+            "year": "2030",
+            "cvv": 123
+        }
+    },
+    "remove": {
+        "account": {
+            "name": "Priscila Bastide",
+            "email": "priscila@gmail.com",
+            "cpf": "36130111070"
+        },
+        "plan": {
+            "name": "Plano Black",
+            "id": "2",
+            "price": 79.99
+        },
+        "credit_card": {
+            "number": "5555555555554444",
+            "holder": "Priscila Bastide",
+            "month": "12",
+            "year": "2030",
+            "cvv": 123
+        }
+    }
+}

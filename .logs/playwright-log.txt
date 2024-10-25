@@ -1,0 +1,84 @@
+{"level":30,"time":"2024-10-15T18:40:21.338Z","pid":51868,"hostname":"Machados","msg":"Listening on 52632"}
+(node:51868) DeprecationWarning: Calling start() is no longer necessary. It can be safely omitted.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":"2024-10-15T18:40:21.566Z","pid":51868,"hostname":"Machados","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:21.566Z","pid":51868,"hostname":"Machados","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:21.572Z","pid":51868,"hostname":"Machados","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:21.572Z","pid":51868,"hostname":"Machados","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:21.583Z","pid":51868,"hostname":"Machados","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-10-15T18:40:23.046Z","pid":51868,"hostname":"Machados","msg":"Adding browser to stack: chromium, version: 124.0.6367.29"}
+{"level":30,"time":"2024-10-15T18:40:23.048Z","pid":51868,"hostname":"Machados","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-10-15T18:40:23.048Z","pid":51868,"hostname":"Machados","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-10-15T18:40:23.064Z","pid":51868,"hostname":"Machados","msg":"Start of node method newContext"}
+{"level":30,"time":"2024-10-15T18:40:23.065Z","pid":51868,"hostname":"Machados","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-10-15T18:40:23.065Z","pid":51868,"hostname":"Machados","msg":"Trace file: "}
+{"level":30,"time":"2024-10-15T18:40:23.139Z","pid":51868,"hostname":"Machados","msg":"Changed active context"}
+{"level":30,"time":"2024-10-15T18:40:23.140Z","pid":51868,"hostname":"Machados","msg":"End of node method newContext"}
+{"level":30,"time":"2024-10-15T18:40:23.152Z","pid":51868,"hostname":"Machados","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-10-15T18:40:23.153Z","pid":51868,"hostname":"Machados","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-10-15T18:40:23.602Z","pid":51868,"hostname":"Machados","msg":"Video path: undefined"}
+{"level":30,"time":"2024-10-15T18:40:23.603Z","pid":51868,"hostname":"Machados","msg":"Changed active page"}
+{"level":30,"time":"2024-10-15T18:40:25.260Z","pid":51868,"hostname":"Machados","msg":"End of node method newPage"}
+{"level":30,"time":"2024-10-15T18:40:25.890Z","pid":51868,"hostname":"Machados","msg":"Start of node method goTo"}
+{"level":30,"time":"2024-10-15T18:40:26.190Z","pid":51868,"hostname":"Machados","msg":"End of node method goTo"}
+{"level":30,"time":"2024-10-15T18:40:26.199Z","pid":51868,"hostname":"Machados","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-10-15T18:40:26.200Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-10-15T18:40:26.342Z","pid":51868,"hostname":"Machados","msg":"End of node method fillText"}
+{"level":30,"time":"2024-10-15T18:40:26.353Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=input[name=password] in page."}
+{"level":30,"time":"2024-10-15T18:40:26.353Z","pid":51868,"hostname":"Machados","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-10-15T18:40:26.402Z","pid":51868,"hostname":"Machados","msg":"End of node method fillText"}
+{"level":30,"time":"2024-10-15T18:40:26.417Z","pid":51868,"hostname":"Machados","msg":"Start of node method click"}
+{"level":30,"time":"2024-10-15T18:40:26.418Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=button >> text=Entrar in page."}
+{"level":30,"time":"2024-10-15T18:40:26.547Z","pid":51868,"hostname":"Machados","msg":"End of node method click"}
+{"level":30,"time":"2024-10-15T18:40:26.563Z","pid":51868,"hostname":"Machados","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-10-15T18:40:26.563Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=span.logged-user in page."}
+{"level":30,"time":"2024-10-15T18:40:27.976Z","pid":51868,"hostname":"Machados","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-10-15T18:40:27.988Z","pid":51868,"hostname":"Machados","msg":"Start of node method getText"}
+{"level":30,"time":"2024-10-15T18:40:27.988Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=span.logged-user in page."}
+{"level":30,"time":"2024-10-15T18:40:28.034Z","pid":51868,"hostname":"Machados","msg":"Retrieved text for element css=span.logged-user containing sac@smartbit.com"}
+{"level":30,"time":"2024-10-15T18:40:28.034Z","pid":51868,"hostname":"Machados","msg":"End of node method getText"}
+{"level":30,"time":"2024-10-15T18:40:28.040Z","pid":51868,"hostname":"Machados","msg":"Start of node method click"}
+{"level":30,"time":"2024-10-15T18:40:28.040Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=a[href='/memberships'] in page."}
+{"level":30,"time":"2024-10-15T18:40:28.128Z","pid":51868,"hostname":"Machados","msg":"End of node method click"}
+{"level":30,"time":"2024-10-15T18:40:28.137Z","pid":51868,"hostname":"Machados","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-10-15T18:40:28.138Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Matrículas in page."}
+{"level":30,"time":"2024-10-15T18:40:28.185Z","pid":51868,"hostname":"Machados","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-10-15T18:40:28.191Z","pid":51868,"hostname":"Machados","msg":"Start of node method click"}
+{"level":30,"time":"2024-10-15T18:40:28.191Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with xpath=//td[text()='Priscila Bastide']/..//button in page."}
+{"level":30,"time":"2024-10-15T18:40:28.252Z","pid":51868,"hostname":"Machados","msg":"End of node method click"}
+{"level":30,"time":"2024-10-15T18:40:28.258Z","pid":51868,"hostname":"Machados","msg":"Start of node method click"}
+{"level":30,"time":"2024-10-15T18:40:28.259Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=.swal2-confirm in page."}
+{"level":30,"time":"2024-10-15T18:40:28.663Z","pid":51868,"hostname":"Machados","msg":"End of node method click"}
+{"level":30,"time":"2024-10-15T18:40:28.671Z","pid":51868,"hostname":"Machados","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-10-15T18:40:28.672Z","pid":51868,"hostname":"Machados","msg":"Strict mode is enabled, find Locator with css=table tbody tr >> text=Priscila Bastide in page."}
+{"level":30,"time":"2024-10-15T18:40:28.677Z","pid":51868,"hostname":"Machados","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-10-15T18:40:28.686Z","pid":51868,"hostname":"Machados","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-10-15T18:40:28.686Z","pid":51868,"hostname":"Machados","Take screenshot with options: ":{"path":"C:\\QAx\\projects\\smartbit-robot\\.logs\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-10-15T18:40:28.944Z","pid":51868,"hostname":"Machados","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-10-15T18:40:28.956Z","pid":51868,"hostname":"Machados","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:28.959Z","pid":51868,"hostname":"Machados","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:28.961Z","pid":51868,"hostname":"Machados","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:28.963Z","pid":51868,"hostname":"Machados","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:28.968Z","pid":51868,"hostname":"Machados","msg":"Changed active context"}
+{"level":30,"time":"2024-10-15T18:40:28.968Z","pid":51868,"hostname":"Machados","msg":"Changing current active page: page=25fe39c3-c09a-40ef-974b-c2ab1b772909"}
+{"level":30,"time":"2024-10-15T18:40:28.968Z","pid":51868,"hostname":"Machados","msg":"Changed active page"}
+{"level":30,"time":"2024-10-15T18:40:28.972Z","pid":51868,"hostname":"Machados","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:28.974Z","pid":51868,"hostname":"Machados","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:28.976Z","pid":51868,"hostname":"Machados","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-10-15T18:40:28.977Z","pid":51868,"hostname":"Machados","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-10-15T18:40:28.979Z","pid":51868,"hostname":"Machados","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-10-15T18:40:28.980Z","pid":51868,"hostname":"Machados","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-10-15T18:40:28.986Z","pid":51868,"hostname":"Machados","msg":"Changing current active page: page=25fe39c3-c09a-40ef-974b-c2ab1b772909"}
+{"level":30,"time":"2024-10-15T18:40:28.986Z","pid":51868,"hostname":"Machados","msg":"Changed active page"}
+{"level":30,"time":"2024-10-15T18:40:28.992Z","pid":51868,"hostname":"Machados","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:28.995Z","pid":51868,"hostname":"Machados","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:28.997Z","pid":51868,"hostname":"Machados","msg":"Changed active context"}
+{"level":30,"time":"2024-10-15T18:40:28.997Z","pid":51868,"hostname":"Machados","msg":"Changing current active page: page=25fe39c3-c09a-40ef-974b-c2ab1b772909"}
+{"level":30,"time":"2024-10-15T18:40:28.997Z","pid":51868,"hostname":"Machados","msg":"Changed active page"}
+{"level":30,"time":"2024-10-15T18:40:29.001Z","pid":51868,"hostname":"Machados","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-10-15T18:40:29.034Z","pid":51868,"hostname":"Machados","msg":"Removed page=c2c4362a-5f41-4803-aaa7-a35983dea38a from context=44da24f5-b2a3-49bb-841f-9f89f5391626 page stack"}
+{"level":30,"time":"2024-10-15T18:40:29.083Z","pid":51868,"hostname":"Machados","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-10-15T18:40:29.101Z","pid":51868,"hostname":"Machados","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:29.101Z","pid":51868,"hostname":"Machados","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-10-15T18:40:29.232Z","pid":51868,"hostname":"Machados","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-10-15T18:40:29.515Z","pid":51868,"hostname":"Machados","msg":"End of node method closeAllBrowsers"}
