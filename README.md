@@ -7,6 +7,7 @@
 **Tecnologias Utilizadas**
 * Python
 * Robot Framework
+* Biblioteca Playwright
 * Docker
 * Postgres
 * Android Studio
