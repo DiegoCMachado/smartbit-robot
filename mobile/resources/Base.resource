@@ -25,6 +25,7 @@ Start session
     ...    autoGrantPermissions=${True}
     ...    newCommandTimeout=120000  
     ...    appWaitDuration=120000 
+    ...    uiautomator2ServerLaunchTimeout=120000
     
     Wait Until Page Contains    IP da API    120
 

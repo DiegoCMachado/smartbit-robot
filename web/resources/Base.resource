@@ -2,10 +2,12 @@
 
 Documentation        Arquivo principal do projeto Robot
 
-Library        JSONLibrary
+Variables      Env.py
+
 Library        Browser
 Library        ../../libs/Account.py
 Library        ../../libs/Database.py
+Library    JSONLibrary
 
 Resource        pages/Landing.resource
 Resource        pages/Welcome.resource
@@ -24,9 +26,9 @@ ${ADMIN_PASSWORD}     pwd123
 
 *** Keywords **
 Start Session
-    New Browser    browser=chromium    headless=False
+    New Browser    browser=${BROWSER}    headless=${HEADLESS}
     New Context    viewport={'width': 1920, 'height': 1080}
-    New Page    http://localhost:3000
+    New Page    ${BASE_URL}
 
 #Helpers
 Get Json fixture

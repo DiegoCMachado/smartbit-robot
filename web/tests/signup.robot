@@ -7,8 +7,7 @@ Test Setup           Start Session
 Test Teardown        Take Screenshot
 
 *** Test Cases ***
-Deve iniciar o cadastro do cliente
-    [Tags]    smoke
+Deve iniciar o cadastro do cliente    
     
     ${account}    Create Dictionary
     ...    name=Machado Diego
